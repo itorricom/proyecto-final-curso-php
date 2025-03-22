@@ -1,0 +1,15 @@
+{
+    "name": "isidorotorrico/inventario",
+    "description": "Sistema de gestión de inventario",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Isidorotorrico\\Inventario\\": "src/",
+            "App\\": "app/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+
+}
